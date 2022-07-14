@@ -2,6 +2,21 @@
   "name": "ts-practice",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "typescript",
+    "test",
+    "nextjs"
+  ],
+  "description": "This is a practice project for TypeScript with NextJs project.",
+  "author": {
+    "name": "Md Amir Hossain",
+    "email": "amirhossain.limon@gmail.com",
+    "url": "https://amirnft.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swopno1/typecript-project.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
